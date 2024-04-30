@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I like programming!
+
+### Language
+
+- R (Primary)
+- Python (Mainly for image analysis)
+- Javascript (Sometimes)
+- HTML & CSS (Beginner)
+
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
