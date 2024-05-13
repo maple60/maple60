@@ -9,6 +9,16 @@ I like programming!
 - Javascript (Sometimes)
 - HTML & CSS (Beginner)
 
+### Interests
+
+- Interactive graphics
+  - Shiny
+  - Plotly
+- Electron
+- Zotero
+- Jekyll
+- Obsidian
+
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
