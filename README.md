@@ -18,6 +18,8 @@ I like programming!
 - Zotero
 - Jekyll
 - Obsidian
+- Mermaid
+- Leaflet
 
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
