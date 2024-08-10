@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I like programming!
+プログラミングが好きです。
 
 ### Language
 
