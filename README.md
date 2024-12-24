@@ -27,6 +27,9 @@ I like programming!
 
 - [Github Pages](https://maple60.github.io/) - Rarely Updated
 - [Web site mainly for R programming](https://maple.quarto.pub/maple-website/)
+- [Python-OpenCV](https://maple.quarto.pub/opencv-python/) - Rarely Updated
+
+GitHub Pages is powered by [Jekyll](https://jekyllrb.com/). The next two pages were created with [Quarto](https://quarto.org/) and hosted on [Quarto Pub](https://quartopub.com/).
 
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
