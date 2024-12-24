@@ -23,6 +23,11 @@ I like programming!
 - Mermaid
 - Leaflet
 
+### Web Sites
+
+- [Github Pages](https://maple60.github.io/) - Rarely Updated
+- [Web site mainly for R programming](https://maple.quarto.pub/maple-website/)
+
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
