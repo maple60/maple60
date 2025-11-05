@@ -43,7 +43,7 @@ I like programming!
 GitHub Pages is powered by [Jekyll](https://jekyllrb.com/). 
 Others pages were created with [Quarto](https://quarto.org/) and hosted on [Quarto Pub](https://quartopub.com/).
 
-### Acknowledgement
+## Acknowledgement
 
 I’m deeply grateful to the open-source community and all the contributors whose work inspires and supports my projects.
 
