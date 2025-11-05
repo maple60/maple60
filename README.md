@@ -1,23 +1,24 @@
-### Hi there 👋
+
+Hi there 👋
 
 I like programming!
 
 プログラミングが好きです。
 
-### Languages
+## Languages
 
-- R (Primary)
-- Python (Mainly for image analysis)
-- Javascript (Sometimes)
-- HTML & CSS (Beginner)
-- Mermaid
+- [R](https://www.r-project.org/) (Primary)
+- [Python](https://www.python.org/) (Mainly for image analysis)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Sometimes)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Beginner)
+- [Mermaid](https://mermaid.js.org/) (Sometimes)
 
-### Tools & Interests
+## Tools & Interests
 
 - **Interactive graphics**
   - [Shiny](https://shiny.posit.co/)
   - [Plotly](https://plotly.com/python/)
-  - Leaflet
+  - [Leaflet](https://leafletjs.com/)
  
 - **GUI development**
   - [Electron](https://www.electronjs.org/)
@@ -32,7 +33,7 @@ I like programming!
   - [Zotero](https://www.zotero.org/)
   - [Obsidian](https://obsidian.md/)
 
-### Web Sites
+## Web Sites
 
 - [My Main Website](https://maplenavy.synology.me/mysite/)
 - [Github Pages](https://maple60.github.io/) - Rarely Updated
@@ -41,6 +42,12 @@ I like programming!
 
 GitHub Pages is powered by [Jekyll](https://jekyllrb.com/). 
 Others pages were created with [Quarto](https://quarto.org/) and hosted on [Quarto Pub](https://quartopub.com/).
+
+### Acknowledgement
+
+I’m deeply grateful to the open-source community and all the contributors whose work inspires and supports my projects.
+
+すべてのオープンソースコミュニティやコントリビューターの方々に深く感謝いたします。
 
 <!--
 **maple60/maple60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
