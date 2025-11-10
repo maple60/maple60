@@ -5,6 +5,8 @@ I like programming!
 
 プログラミングが好きです。
 
+My Gist: https://gist.github.com/maple60
+
 ## Languages
 
 - [R](https://www.r-project.org/) (Primary)
