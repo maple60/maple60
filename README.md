@@ -5,7 +5,10 @@ I like programming!
 
 プログラミングが好きです。
 
-My Gist: https://gist.github.com/maple60
+- personal website: https://maple60.github.io/  
+- My Gist: https://gist.github.com/maple60  
+
+My website is built with [Quarto](https://quarto.org/)
 
 ## Languages
 
