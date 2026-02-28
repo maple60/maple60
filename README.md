@@ -1,22 +1,21 @@
+Hi.
+I work primarily with R and develop interactive tools and websites.
+I have a strong interest in programming and computational workflows.
 
-Hi there 👋
-
-I like programming!
-
-プログラミングが好きです。
+主にRを使用しています。プログラミングに関心があります。
 
 - personal website: https://maple60.github.io/  
-- My Gist: https://gist.github.com/maple60  
+- My Gists: https://gist.github.com/maple60  
 
 My website is built with [Quarto](https://quarto.org/)
 
 ## Languages
 
 - [R](https://www.r-project.org/) (Primary)
-- [Python](https://www.python.org/) (Mainly for image analysis)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Sometimes)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Beginner)
-- [Mermaid](https://mermaid.js.org/) (Sometimes)
+- [Python](https://www.python.org/) (Image analysis and machine learning)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Occasionally)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Basic knowledge)
+- [Mermaid](https://mermaid.js.org/) (Occasionally)
 
 ## Tools & Interests
 
@@ -45,12 +44,12 @@ My website is built with [Quarto](https://quarto.org/)
 - [Web site mainly for R programming](https://maple.quarto.pub/maple-website/)
 - [Python-OpenCV](https://maple.quarto.pub/opencv-python/) - Rarely Updated
 
-GitHub Pages is powered by [Jekyll](https://jekyllrb.com/). 
-Others pages were created with [Quarto](https://quarto.org/) and hosted on [Quarto Pub](https://quartopub.com/).
+My GitHub Pages site is powered by [Quarto](https://quarto.org/) (previously built with Jekyll).
+Other pages were created with [Quarto](https://quarto.org/) and hosted on [Quarto Pub](https://quartopub.com/).
 
 ## Acknowledgement
 
-I’m deeply grateful to the open-source community and all the contributors whose work inspires and supports my projects.
+I am deeply grateful to the open-source community and all contributors whose work inspires and supports my projects.
 
 すべてのオープンソースコミュニティやコントリビューターの方々に深く感謝いたします。
 
