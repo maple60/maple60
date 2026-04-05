@@ -4,7 +4,7 @@ I have a strong interest in programming and computational workflows.
 
 主にRを使用しています。プログラミングに関心があります。
 
-- personal website: https://maple60.github.io/  
+- Personal website: https://maple60.github.io/  
 - My Gists: https://gist.github.com/maple60  
 
 My website is built with [Quarto](https://quarto.org/)
@@ -16,26 +16,6 @@ My website is built with [Quarto](https://quarto.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (Occasionally)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Basic knowledge)
 - [Mermaid](https://mermaid.js.org/) (Occasionally)
-
-## Tools & Interests
-
-- **Interactive graphics**
-  - [Shiny](https://shiny.posit.co/)
-  - [Plotly](https://plotly.com/python/)
-  - [Leaflet](https://leafletjs.com/)
- 
-- **GUI development**
-  - [Electron](https://www.electronjs.org/)
-  - [PyInstaller](https://pyinstaller.org/en/)
-  - [Nuitka](https://nuitka.net/)
-
-- **Static web builder**
-  - [Quarto](https://quarto.org/) 
-  - [Jekyll](https://jekyllrb.com/)
-
-- **Others**
-  - [Zotero](https://www.zotero.org/)
-  - [Obsidian](https://obsidian.md/)
 
 ## Web Sites
 
