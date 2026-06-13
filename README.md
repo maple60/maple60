@@ -20,7 +20,7 @@ My website is built with [Quarto](https://quarto.org/)
 ## Web Sites
 
 - [My Main Website](https://maplenavy.synology.me/mysite/)
-- [Github Pages](https://maple60.github.io/) - Rarely Updated
+- [Github Pages](https://maple60.github.io/)
 - [Web site mainly for R programming](https://maple.quarto.pub/maple-website/)
 - [Python-OpenCV](https://maple.quarto.pub/opencv-python/) - Rarely Updated
 
